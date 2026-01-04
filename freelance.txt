@@ -83,9 +83,12 @@ password : t6kZpQ$XXZH6!6
 Compte client 
 user : clientoboxia
 password : 0VoEtgA50wX81hs1hHr9N(ZJ
-
-
 ---------------------------------------------------------------------------
+CM2S DB
 
+cm2ss2693185
+vG6_App-rdh-v-E
+---------------------------------------------------------------------------
+stedh
 adminoboxia
-h*3@gKt5H9
+5dbMabFhMUJC
